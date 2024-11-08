@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ce057fc1ee0ae34fbf6a04c3bfd00b9, type: 3}
+  m_Name: PlayerDetails_TheScientist
+  m_EditorClassIdentifier: 
+  playerCharacterName: The Scientist
+  playerPrefab: {fileID: 8231570116139801996, guid: 41764224126b3cb45a4ebfd9563ab2b4, type: 3}
+  runtimeAnimatorController: {fileID: 9100000, guid: e52ed9234b488b0449570da9e57ce474, type: 2}
+  playerHealthAmount: 100
+  startingWeapon: {fileID: 11400000, guid: 7feb7418fbdbc254b8f9b45f39187380, type: 2}
+  startingWeaponList:
+  - {fileID: 11400000, guid: 7feb7418fbdbc254b8f9b45f39187380, type: 2}
+  playerMiniMapIcon: {fileID: 21300000, guid: da88e4a191f22674e9aab239e652640a, type: 3}
+  playerHandSprite: {fileID: 21300000, guid: 2788b711f80a9194096a03ef26a440cb, type: 3}

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 94cb7a6a33f32214585eb79e120d2d95
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grid: {instanceID: 0}
+  - groundTilemap: {instanceID: 0}
+  - decoration1Tilemap: {instanceID: 0}
+  - decoration2Tilemap: {instanceID: 0}
+  - frontTilemap: {instanceID: 0}
+  - collisionTilemap: {instanceID: 0}
+  - minimapTilemap: {instanceID: 0}
+  - physicsMaterial: {fileID: 6200000, guid: 8fd762b4a08c8b54cb1215017003bf65, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

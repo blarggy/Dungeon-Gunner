@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1c7ad96d3b3fff4180cdcade75714bc, type: 3}
+  m_Name: WeaponDetals_PlasmaBlaster
+  m_EditorClassIdentifier: 
+  weaponName: Plasma Blaster
+  weaponSprite: {fileID: 21300000, guid: a9d9372b640a67a4dae1cdbb59e3b919, type: 3}
+  weaponShootPosition: {x: 1.245, y: 0.277, z: 0}
+  weaponCurrentAmmo: {fileID: 11400000, guid: e36dbab429d35f64b9150b09d24f8d10, type: 2}
+  weaponFiringSoundEffect: {fileID: 11400000, guid: f19c52397c460d843b0271ec17c87ac9, type: 2}
+  weaponReloadingSoundEffect: {fileID: 11400000, guid: 4e56d375d009d2b4cb9a3bcf8fb6835b, type: 2}
+  hasInfiniteAmmo: 1
+  hasInfiniteMagazineCapacity: 0
+  weaponMagazineAmmoCapacity: 6
+  weaponAmmoCapacity: 0
+  weaponFireRate: 0.5
+  weaponPrechargeTime: 0.2
+  weaponReloadTime: 1

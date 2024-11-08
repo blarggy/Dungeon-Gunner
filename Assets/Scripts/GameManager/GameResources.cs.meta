@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 10016625d28af7c4f879f425f3865369
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roomNodeTypeList: {instanceID: 0}
+  - currentPlayer: {instanceID: 0}
+  - dimmedMaterial: {instanceID: 0}
+  - litMaterial: {instanceID: 0}
+  - variableLitShader: {instanceID: 0}
+  - ammoIconPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
